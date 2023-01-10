@@ -1,6 +1,10 @@
-# SupportMe
-**_In-App social media promotion integration_**
+# Offloader - Android
+**_Load webview url in offline mode_**
 ## Need minSDK of 22 for working properly
+
+## This library is still under development and we are happy to hear about any improvement suggession
+### Note : This version currently doesn't support prompt connection drops and will be upgraded as future releases
+
 
  ### Setup
 >Step 1. Add the JitPack repository to your settings.gradle
@@ -34,7 +38,7 @@ allprojects {
 |Param number  | Parameter   |      Use Case | 
 |-----|----------|:-------------:|
 | 1 | url |  Defined the url needed to be loaded in webview |
-|2  | context |   Activity Name.this(Defines Context)  |   
+|2  | context |   ActivityName.this(Defines Context)  |   
 | 3 | id | id of the webview | 
 
    
