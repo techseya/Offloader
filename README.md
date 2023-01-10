@@ -2,8 +2,8 @@
 **_Load webview url in offline mode_**
 ## Need minSDK of 22 for working properly
 
-## This library is still under development and we are happy to hear about any improvement suggession
-### Note : This version currently doesn't support prompt connection drops and will be upgraded as future releases
+## This library is still under development and we are happy to hear about any improvement or suggession
+### Note : This version currently doesn't support prompt connection drops and will be upgraded as a future release
 
 
  ### Setup
